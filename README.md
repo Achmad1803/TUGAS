@@ -6,3 +6,4 @@ Achmad Djulfikrie
 
 muhammad ilza luthfi
 16.12.9442# TUGAS
+# UAS
